@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28181494439",
+    "project_id": "ad-farm-9cfcb",
+    "storage_bucket": "ad-farm-9cfcb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28181494439:android:f3934d2a73fd76dc5c3982",
+        "android_client_info": {
+          "package_name": "com.example.adifoodapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC2MO6t8xI_wii9eh3gF-zC_eXy-QBAjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
